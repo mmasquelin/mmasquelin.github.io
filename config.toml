@@ -1,0 +1,35 @@
+baseURL = '/'
+languageCode = 'fr-fr'
+title = 'Mon e-Portfolio'
+theme = 'iutdelens'
+paginate = 2
+
+[[menu.main]]
+  name = "CV"
+  url = "/cv"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog"
+
+[[menu.main]]
+  name = "Projets"
+  url = "/projets"
+
+[[menu.social]]
+  name = "GitLab"
+  url = "https://gitlab.com/mmasquelin"
+  pre = "<i class='fab fa-github'></i>"
+
+[[menu.social]]
+  name = "LinkedIn"
+  url = "https://fr.linkedin.com/in/mmasquelin"
+  pre = "<i class='fab fa-linkedin'></i>"
+
+[[menu.footer]]
+  name = "À propos"
+  url = "/a-propos"
+
+[params]
+  author = "Mickaël M."
+  authorImage = "/images/MMA-avatar.png"

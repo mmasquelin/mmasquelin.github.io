@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="container">
+    <div class="section">
+        <div class="content">
+            <div class="columns is-vcentered">
+                <div class="column">
+					<figure class="image is-narrow">
+						<img alt="{{ .Site.Params.Author }}" title="{{ .Site.Params.Author }}" src="{{ .Site.Params.authorImage }}">
+					</figure>
+				</div>
+				<div class="column">
+					{{ .Content }}
+				</div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
