@@ -9,4 +9,6 @@ draft: false
 
 {{< presentation "Passionné par DevOps. Au quotidien : J’accompagne mon équipe dans ses mises en production, je fais en sorte que les infrastructures ou les services mis en oeuvre fonctionnent correctement et que nous puissions déployer, scaler, créer des plateformes, services et applications." >}}
 
+Coucou !
+
 {{< bouton-contact "mailto:mickael.masquelin@univ-lille.fr" >}}
