@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AngularJS on Mon e-Portfolio</title>
+    <link>https://mmasquelin.github.io/categories/angularjs/</link>
+    <description>Recent content in AngularJS on Mon e-Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 09 May 2022 09:16:56 +0200</lastBuildDate><atom:link href="https://mmasquelin.github.io/categories/angularjs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile Burger Quiz</title>
+      <link>https://mmasquelin.github.io/projets/2022/s3-burger-quiz/</link>
+      <pubDate>Mon, 09 May 2022 09:16:56 +0200</pubDate>
+      
+      <guid>https://mmasquelin.github.io/projets/2022/s3-burger-quiz/</guid>
+      <description>Présentation du projet L&amp;rsquo;objectif de ce projet était de développer une version du Burger Quiz sur le thème de l&amp;rsquo;agilité.</description>
+    </item>
+    
+  </channel>
+</rss>

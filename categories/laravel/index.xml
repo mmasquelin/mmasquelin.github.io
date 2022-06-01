@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laravel on Mon e-Portfolio</title>
+    <link>https://mmasquelin.github.io/categories/laravel/</link>
+    <description>Recent content in Laravel on Mon e-Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 11 May 2022 09:19:10 +0200</lastBuildDate><atom:link href="https://mmasquelin.github.io/categories/laravel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VOD</title>
+      <link>https://mmasquelin.github.io/projets/2022/s3-marathon/</link>
+      <pubDate>Wed, 11 May 2022 09:19:10 +0200</pubDate>
+      
+      <guid>https://mmasquelin.github.io/projets/2022/s3-marathon/</guid>
+      <description>Présentation du projet L&amp;rsquo;objectif de ce projet était de développer un catalogue web de vidéo à la demande (Netflix-like).</description>
+    </item>
+    
+  </channel>
+</rss>

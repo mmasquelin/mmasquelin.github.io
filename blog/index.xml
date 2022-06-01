@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Mon e-Portfolio</title>
+    <link>https://mmasquelin.github.io/blog/</link>
+    <description>Recent content in Blogs on Mon e-Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 09 May 2022 16:00:28 +0200</lastBuildDate><atom:link href="https://mmasquelin.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon deuxième article avec Hugo</title>
+      <link>https://mmasquelin.github.io/blog/mon-deuxieme-article/</link>
+      <pubDate>Mon, 09 May 2022 16:00:28 +0200</pubDate>
+      
+      <guid>https://mmasquelin.github.io/blog/mon-deuxieme-article/</guid>
+      <description>Niveau de titre H1 Ceci est un paragraphe.
+Ceci est un autre paragraphe avec de l&amp;rsquo;italique et du gras.
+Niveau de titre H2 Niveau de titre H3 Ceci est un lien
+Voici un exemple de liste :
+ Python   Jupyter   Kernel MariaDB  Niveau de titre H3 Nous pouvons également créer des listes ordonnées :
+ Java Python   psycopg requests  Et nous pouvons aussi créer des tableaux en Markdown :</description>
+    </item>
+    
+    <item>
+      <title>Mon premier article avec Hugo</title>
+      <link>https://mmasquelin.github.io/blog/mon-premier-article/</link>
+      <pubDate>Mon, 09 May 2022 15:59:31 +0200</pubDate>
+      
+      <guid>https://mmasquelin.github.io/blog/mon-premier-article/</guid>
+      <description>Bonjour, ceci est mon tout premier article !</description>
+    </item>
+    
+  </channel>
+</rss>

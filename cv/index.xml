@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CV on Mon e-Portfolio</title>
+    <link>https://mmasquelin.github.io/cv/</link>
+    <description>Recent content in CV on Mon e-Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 01 Jun 2022 10:27:24 +0200</lastBuildDate><atom:link href="https://mmasquelin.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

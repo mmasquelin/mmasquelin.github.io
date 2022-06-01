@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accueil on Mon e-Portfolio</title>
+    <link>https://mmasquelin.github.io/</link>
+    <description>Recent content in Accueil on Mon e-Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 09 May 2022 15:27:39 +0200</lastBuildDate><atom:link href="https://mmasquelin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VOD</title>
+      <link>https://mmasquelin.github.io/projets/2022/s3-marathon/</link>
+      <pubDate>Wed, 11 May 2022 09:19:10 +0200</pubDate>
+      
+      <guid>https://mmasquelin.github.io/projets/2022/s3-marathon/</guid>
+      <description>Présentation du projet L&amp;rsquo;objectif de ce projet était de développer un catalogue web de vidéo à la demande (Netflix-like).</description>
+    </item>
+    
+    <item>
+      <title>e-Portfolio</title>
+      <link>https://mmasquelin.github.io/projets/2022/s1-e-portfolio/</link>
+      <pubDate>Wed, 11 May 2022 05:19:14 +0200</pubDate>
+      
+      <guid>https://mmasquelin.github.io/projets/2022/s1-e-portfolio/</guid>
+      <description>Présentation du projet L&amp;rsquo;objectif de ce projet est de concevoir un e-Portfolio de nos réalisations en BUT Informatique.</description>
+    </item>
+    
+    <item>
+      <title>Mon deuxième article avec Hugo</title>
+      <link>https://mmasquelin.github.io/blog/mon-deuxieme-article/</link>
+      <pubDate>Mon, 09 May 2022 16:00:28 +0200</pubDate>
+      
+      <guid>https://mmasquelin.github.io/blog/mon-deuxieme-article/</guid>
+      <description>Niveau de titre H1 Ceci est un paragraphe.
+Ceci est un autre paragraphe avec de l&amp;rsquo;italique et du gras.
+Niveau de titre H2 Niveau de titre H3 Ceci est un lien
+Voici un exemple de liste :
+ Python   Jupyter   Kernel MariaDB  Niveau de titre H3 Nous pouvons également créer des listes ordonnées :
+ Java Python   psycopg requests  Et nous pouvons aussi créer des tableaux en Markdown :</description>
+    </item>
+    
+    <item>
+      <title>Mon premier article avec Hugo</title>
+      <link>https://mmasquelin.github.io/blog/mon-premier-article/</link>
+      <pubDate>Mon, 09 May 2022 15:59:31 +0200</pubDate>
+      
+      <guid>https://mmasquelin.github.io/blog/mon-premier-article/</guid>
+      <description>Bonjour, ceci est mon tout premier article !</description>
+    </item>
+    
+    <item>
+      <title>Refonte d&#39;un site web</title>
+      <link>https://mmasquelin.github.io/projets/2022/s1-refonte-site-iut/</link>
+      <pubDate>Mon, 09 May 2022 15:19:14 +0200</pubDate>
+      
+      <guid>https://mmasquelin.github.io/projets/2022/s1-refonte-site-iut/</guid>
+      <description>Présentation du projet L&amp;rsquo;objectif de ce projet était de procéder à une refonte du site web des IUT en utilisant les technologies HTML et CSS ainsi que le framework Bootstrap.</description>
+    </item>
+    
+    <item>
+      <title>Agile Burger Quiz</title>
+      <link>https://mmasquelin.github.io/projets/2022/s3-burger-quiz/</link>
+      <pubDate>Mon, 09 May 2022 09:16:56 +0200</pubDate>
+      
+      <guid>https://mmasquelin.github.io/projets/2022/s3-burger-quiz/</guid>
+      <description>Présentation du projet L&amp;rsquo;objectif de ce projet était de développer une version du Burger Quiz sur le thème de l&amp;rsquo;agilité.</description>
+    </item>
+    
+  </channel>
+</rss>

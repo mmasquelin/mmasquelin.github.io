@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML/CSS on Mon e-Portfolio</title>
+    <link>https://mmasquelin.github.io/categories/html/css/</link>
+    <description>Recent content in HTML/CSS on Mon e-Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://mmasquelin.github.io/categories/html/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>e-Portfolio</title>
+      <link>https://mmasquelin.github.io/projets/2022/s1-e-portfolio/</link>
+      <pubDate>Wed, 11 May 2022 05:19:14 +0200</pubDate>
+      
+      <guid>https://mmasquelin.github.io/projets/2022/s1-e-portfolio/</guid>
+      <description>Présentation du projet L&amp;rsquo;objectif de ce projet est de concevoir un e-Portfolio de nos réalisations en BUT Informatique.</description>
+    </item>
+    
+    <item>
+      <title>Refonte d&#39;un site web</title>
+      <link>https://mmasquelin.github.io/projets/2022/s1-refonte-site-iut/</link>
+      <pubDate>Mon, 09 May 2022 15:19:14 +0200</pubDate>
+      
+      <guid>https://mmasquelin.github.io/projets/2022/s1-refonte-site-iut/</guid>
+      <description>Présentation du projet L&amp;rsquo;objectif de ce projet était de procéder à une refonte du site web des IUT en utilisant les technologies HTML et CSS ainsi que le framework Bootstrap.</description>
+    </item>
+    
+  </channel>
+</rss>

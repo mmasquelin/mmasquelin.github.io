@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
+<link rel="stylesheet" href="/css/style.css" /><body><header>
+    <nav class="navbar" role="navigation">
+        <div class="container">
+            <div class="navbar-brand">
+                <a href="/" title="home" class="navbar-item">
+                    <span class="logo"><h1>Mon e-Portfolio</h1></span>
+                </a>
+                
+                <a href="https://gitlab.com/mmasquelin" class="navbar-item is-hidden-desktop" title="GitLab">
+                    <span class="icon"><i class='fab fa-github'></i></span>
+                </a>
+                
+                <a href="https://fr.linkedin.com/in/mmasquelin" class="navbar-item is-hidden-desktop" title="LinkedIn">
+                    <span class="icon"><i class='fab fa-linkedin'></i></span>
+                </a>
+                
+                <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+                
+            <div class="navbar-menu">
+                <div class="navbar-start">
+                    
+                    <a href="/blog" class="navbar-item">Blog</a>
+                    
+                    <a href="/cv" class="navbar-item">CV</a>
+                    
+                    <a href="/projets" class="navbar-item">Projets</a>
+                    
+                </div>
+                <div class="navbar-end">
+                    
+                    <a href="https://gitlab.com/mmasquelin" class="navbar-item is-hidden-touch" title="GitLab">
+                    <span class="icon"><i class='fab fa-github'></i></span></a>
+                    
+                    <a href="https://fr.linkedin.com/in/mmasquelin" class="navbar-item is-hidden-touch" title="LinkedIn">
+                    <span class="icon"><i class='fab fa-linkedin'></i></span></a>
+                    
+                </div>
+            </div>
+        </div>
+    </nav>
+    <script>
+        $(document).ready(function () {
+            $(".navbar-burger").click(function () {
+                $(".navbar-burger").toggleClass("is-active");
+                $(".navbar-menu").toggleClass("is-active");
+            })
+        })
+    </script>
+</header>
+<div id="content">
+<div class="container">
+    <div class="section">
+        <div class="content">
+            <h1>Projets</h1>
+            
+        </div>
+        <div class="columns is-multiline">
+            
+            <div class="column is-third">
+                
+<div class="card">
+    <div class="card-image">
+        <figure class="image is-3by2">
+            
+            <a href="https://mmasquelin.github.io/projets/2022/s3-marathon/"><img src="/images/projets/vod.png" alt=""></a>
+            
+        </figure>
+    </div>
+    <div class="card-content">
+        <a class="title is-4" href="https://mmasquelin.github.io/projets/2022/s3-marathon/">VOD</a>
+        <span class="heading">Mickaël M. | <time>May 11, 2022</time></span>
+        <div class="content">
+            Présentation du projet L&rsquo;objectif de ce projet était de développer un catalogue web de vidéo à la demande (Netflix-like).
+        </div>
+        <div class="tags is-pulled-right">
+            
+            <a class="tag is-primary is-radiusless" href="/categories/web">Web</a>
+            
+            <a class="tag is-primary is-radiusless" href="/categories/laravel">Laravel</a>
+            
+        </div>
+    </div>
+</div>
+            </div>
+            
+            <div class="column is-third">
+                
+<div class="card">
+    <div class="card-image">
+        <figure class="image is-3by2">
+            
+            <a href="https://mmasquelin.github.io/projets/2022/s1-e-portfolio/"><img src="/images/projets/e-portfolio.png" alt=""></a>
+            
+        </figure>
+    </div>
+    <div class="card-content">
+        <a class="title is-4" href="https://mmasquelin.github.io/projets/2022/s1-e-portfolio/">e-Portfolio</a>
+        <span class="heading">Mickaël M. | <time>May 11, 2022</time></span>
+        <div class="content">
+            Présentation du projet L&rsquo;objectif de ce projet est de concevoir un e-Portfolio de nos réalisations en BUT Informatique.
+        </div>
+        <div class="tags is-pulled-right">
+            
+            <a class="tag is-primary is-radiusless" href="/categories/web">Web</a>
+            
+            <a class="tag is-primary is-radiusless" href="/categories/html/css">HTML/CSS</a>
+            
+            <a class="tag is-primary is-radiusless" href="/categories/hugo">Hugo</a>
+            
+        </div>
+    </div>
+</div>
+            </div>
+            
+        </div>
+        <div class="columns is-centered">
+            <div class="column is-narrow">
+                
+
+<nav class="pagination">
+<ul class="pagination-list">
+    
+    <li>
+        <a href="/projets/" class="pagination-link"  disabled aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+    </li>
+    
+    <li>
+        <a href="" class="pagination-link"  disabled aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+    </li>
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li><a class="pagination-link is-current" href="/projets/">1</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li><a class="pagination-link " href="/projets/page/2/">2</a></li>
+    
+    
+    <li>
+    <a href="/projets/page/2/" class="pagination-link"  aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    </li>
+    
+    <li>
+        <a href="/projets/page/2/" class="pagination-link"  aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    </li>
+    
+</ul>
+</nav>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div><footer class="footer has-top-space">
+    <div class="container">
+        <div class="column has-text-centered is-size-7 has-top-space">
+			<p>Site conçu par Mickaël M.</p>
+			<p>avec le framework CSS <a target="_blank" rel="noopener noreferrer" href="https://bulma.io">Bulma</a> et le générateur de sites statiques <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io">Hugo</a>.</p>
+		</div>
+    </div>
+</footer>
+</body>
+</html>
